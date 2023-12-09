@@ -1,4 +1,4 @@
-![Header](./your-header-image-name.png)
+![logo]([./your-header-image-name.png](https://github.com/mdaatifraza/mdaatifraza/blob/main/github-header-image%20(1).png))
 <h1 align="center">Hi 👋, I'm Md Aatif Raza</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 
