@@ -1,12 +1,12 @@
 ![logo]([./your-header-image-name.png](https://github.com/mdaatifraza/mdaatifraza/blob/main/github-header-image%20(1).png))
 <h1 align="center">Hi 👋, I'm Md Aatif Raza</h1>
-<h3 align="center">A passionate Data Analyst from India</h3>
+<h3 align="center">Data Analyst from India</h3>
 
 <img align="right" alt="coding" widht="400" src="https://th.bing.com/th?id=OIP.VON9gHTrzeHZbHfXsqfzEAHaEq&w=315&h=198&c=8&rs=1&qlt=90&o=6&dpr=1.3&pid=3.1&rm=2">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdaatifraza&label=Profile%20views&color=0e75b6&style=flat" alt="mdaatifraza" /> </p>
 
-- 🌱 I’m currently working as  **Trainee-Power BI Developer**
+- 🌱 I’m currently working as  **Data Analyst(Power BI Developer)**
 
 - 💬 Ask me about **Excel, Power BI, SQL, Python, Pandas**
 
