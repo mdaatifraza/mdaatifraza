@@ -6,9 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdaatifraza&label=Profile%20views&color=0e75b6&style=flat" alt="mdaatifraza" /> </p>
 
-- 🌱 I’m currently working as  **Data Analyst(Power BI Developer)**
+- 🌱 I’m currently working as  **Data Analyst (Power BI Developer)**
 
-- 💬 Ask me about **Excel, Power BI, SQL, Python, Pandas**
+- 💬 Ask me about **Excel,Advance Excel, Power BI, SQL, Python, Pandas**
 
 - 📫 How to reach me **mdaatifraza5556@gmail.com**
 
